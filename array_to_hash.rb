@@ -9,3 +9,4 @@ end
 x = %w(one two three)
 
 puts array_to_hash(x)
+# asdfkasdjf
